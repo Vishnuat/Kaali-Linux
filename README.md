@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/dTBIg5?referralCode=-HhrJi)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXTEAM&repo=kaali-Linux&theme=flag-india)
 [![GIF](https://github.com/DAXXTEAM/kaali-Linux/blob/main/DAXXTEAM.gif)](https://github.com/DAXXTEAM)
